@@ -74,16 +74,6 @@ Obecnie wiele osób otrzymuje wynagrodzenie za pracę w niepełnym lub pełnym w
 
 Łatwiej jest uzasadnić pracę z otwartym kodem źródłowym, jeśli twój pracodawca faktycznie korzysta z projektu, ale dobrym pomysłem byłoby kreatywne uzasadnienie swojej prośby. Być może twój pracodawca nie korzysta z projektu, ale używa Pythona, a utrzymanie popularnego projektu w Pythonie pomaga przyciągnąć nowych deweloperów języka Python. Może to sprawić, że twój pracodawca będzie wydawał się bardziej atrakcyjny dla innych programistów.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
-
 Jeśli nie masz istniejącego projektu typu open source, nad którym chciałbyś pracować, możesz poprosić swojego pracodawcę aby wydał część wewnętrznego oprogramowania jako open source.
 
 Wiele firm opracowywuje programy typu open source, aby budować swoją markę i rekrutować utalentowanych pracowników.
@@ -106,7 +96,7 @@ Jeśli Twoja firma pójdzie tą drogą, ważne jest, aby zachować wyraźne gran
 
 Jeśli nie możesz przekonać swojego obecnego pracodawcy do priorytetowego traktowania pracy typu open source, zastanów się nad znalezieniem nowego, który zachęca pracowników do korzystania z oprogramowania typu open source. Poszukaj firm, które wyrażają swoje zaangażowanie w pracę z otwartym oprogramowaniem. Na przykład:
 
-* Niektóre firmy, jak [Netflix](https://netflix.github.io/) lub [PayPal](https://paypal.github.io/), mają strony internetowe, które podkreślają ich zaangażowanie w open source
+* Niektóre firmy, jak [Netflix](https://netflix.github.io/), mają strony internetowe, które podkreślają ich zaangażowanie w open source
 * [Zalando](https://opensource.zalando.com) opublikował [politykę dotyczącą wkładu typu open source](https://opensource.zalando.com/docs/using/contributing/) dla pracowników
 
 Projekty, które powstały w dużej firmie, takie jak [Go](https://github.com/golang) lub [React](https://github.com/facebook/react), prawdopodobnie również zatrudniają ludzi do pracy na otwartym oprogramowaniu.
@@ -136,7 +126,6 @@ Znalezienie sponsorów działa dobrze, jeśli masz już odpowiednią publicznoś
 Kilka przykładów sponsorowanych projektów to:
 
 * **[webpack](https://github.com/webpack)** zbiera pieniądze od firm i osób prywatnych [poprzez OpenCollective](https://opencollective.com/webpack)
-* **[Vue](https://github.com/vuejs/vue)** jest [finansowany przez Patreon](https://github.com/open-source/stories/yyx990803)
 * **[Ruby Together](https://rubytogether.org/),** organizacja non-profit, która płaci za pracę [bundler](https://github.com/bundler/bundler), [RubyGems](https://github.com/rubygems/rubygems), i inne projekty infrastruktury Ruby
 
 ### Utwórz strumień przychodów
