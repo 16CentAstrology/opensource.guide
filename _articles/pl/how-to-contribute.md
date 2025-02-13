@@ -76,16 +76,6 @@ Powszechnym błędnym przekonaniem na temat przyczyniania się do open source je
 
 Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na zaangażowanie się w projekt i poznanie innych członków społeczności. Budowanie tych relacji da ci możliwość pracy nad innymi częściami projektu.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
-
 ### Czy lubisz planować wydarzenia?
 
 * Organizuj warsztaty lub spotkania dotyczące projektu, [jak @fzamperin dla NodeSchool](https://github.com/nodeschool/organizers/issues/406)
@@ -104,7 +94,7 @@ Nawet jeśli lubisz pisać kod, inne rodzaje wkładów to świetny sposób na za
 * Napisz i popraw dokumentację projektu
 * Wybierz folder z przykładami pokazującymi, w jaki sposób projekt jest używany
 * Rozpocznij biuletyn dotyczący projektu lub wybieraj najważniejsze informacje z listy mailingowej
-* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
+* Napisz tutoriale do projektu [jak zrobili to autorzy PyPA](https://packaging.python.org/)
 * Napisz tłumaczenie dokumentacji projektu
 
 <aside markdown="1" class="pquote">
@@ -231,7 +221,6 @@ Możesz także skorzystać z jednego z następujących zasobów, aby pomóc ci o
 * [CodeTriage](https://www.codetriage.com/)
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
-* [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
